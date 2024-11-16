@@ -1,0 +1,14 @@
+C:\Users\MikeyMSM\Task3Listing\bin\Debug\net8.0\Task3Listing.exe
+C:\Users\MikeyMSM\Task3Listing\bin\Debug\net8.0\Task3Listing.deps.json
+C:\Users\MikeyMSM\Task3Listing\bin\Debug\net8.0\Task3Listing.runtimeconfig.json
+C:\Users\MikeyMSM\Task3Listing\bin\Debug\net8.0\Task3Listing.dll
+C:\Users\MikeyMSM\Task3Listing\bin\Debug\net8.0\Task3Listing.pdb
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.AssemblyInfoInputs.cache
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.AssemblyInfo.cs
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.csproj.CoreCompileInputs.cache
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.dll
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\refint\Task3Listing.dll
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.pdb
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\Task3Listing.genruntimeconfig.cache
+C:\Users\MikeyMSM\Task3Listing\obj\Debug\net8.0\ref\Task3Listing.dll
